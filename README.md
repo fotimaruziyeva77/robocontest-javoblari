@@ -1,1 +1,1 @@
-# robocontest-javoblari!
+# robocontest-javoblari
